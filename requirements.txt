@@ -1,0 +1,6 @@
+requests
+requests_cache
+beautifulsoup4
+html5lib
+tqdm
+requests-html
